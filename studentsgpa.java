@@ -1,6 +1,6 @@
 import java.util.*;
 import java.util.Scanner;
-import java.lang.*;1
+import java.lang.*
 class Student {
     private String USN;
     private String name;
